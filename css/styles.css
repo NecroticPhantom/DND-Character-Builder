@@ -7,10 +7,10 @@ body {
     margin: auto;
 }
 .topContainer {
-    margin-top: 10%;
+    margin-top: 5%;
 }
 .bottomContainer {
-    margin-bottom: 10%;
+    margin-bottom: 5%;
 }
 .menuLinks {
     width: 14rem;
@@ -30,6 +30,8 @@ body {
     line-height: 10rem;
     text-align: center;
     color: green;
+    size: 5rem;
+    font-weight: 500;
 }
 
 .characterSheet {
